@@ -1,6 +1,7 @@
 # loan_approval
 
 Loan Approval Prediction
+
 A simple Python program that uses machine learning (Decision Tree) to predict if a loan application will be approved or rejected.
 
 Features
